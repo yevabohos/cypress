@@ -14,7 +14,7 @@
     "demo"
   ],
   "author": "yevabohos",
-  "license": "MIT"
+  "license": "MIT",
   "devDependencies": {
     "cypress": "10.3.0"
   }
