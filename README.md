@@ -1,1 +1,1 @@
-Cypress croject for automation course
+Cypress project for automation course
